@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahatsawat Nitjaphant</h1>
 <h3 align="center">Gameshow geek who can program a little bit(?) from ICT Mahidol.</h3>
-<br>
+---
 
 - 🧑‍🎓 I’m currently studying in **2nd Year at Faculty of ICT, Mahidol University**
 
