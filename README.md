@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahatsawat Nitjaphant</h1>
 <h3 align="center">Gameshow geek who can program a little bit(?) from ICT Mahidol.</h3>
 
-- 🧑‍🎓 I’m currently studying in **2nd Year at Faculty of ICT, Mahidol University**
+- 🆕 Now, I'm doing a summer internship for **3 months** at **Software Engineering Lab, NAIST**
 
-- 🌱 I’m currently learning **Quality Assurance Testing**
+- 🧑‍🎓 I’m currently studying in **3rd Year at Faculty of ICT, Mahidol University**
+
+- 🌱 I’m currently learning **Quality Assurance Testing** and **AI Agents workflow detection**
 
 - 👩🏻‍💻 I’m currently working on **Lab Assistant, Part-Time Backend Developer, Github Autograding for C Programming class**
 
