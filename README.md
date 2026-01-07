@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahatsawat Nitjaphant</h1>
 <h3 align="center">Gameshow geek who can program a little bit(?) from ICT Mahidol.</h3>
 
-- 🆕 Now, I'm doing a summer internship for **3 months** at **Software Engineering Lab, NAIST**
+- 🆕 Now, I'm developing **ICA LA Scoring** website for scoring the lab by LA and let students check the lab score by themselves.
 
 - 🧑‍🎓 I’m currently studying in **3rd Year at Faculty of ICT, Mahidol University**
 
