@@ -3,7 +3,7 @@
 
 - 🆕 Now, I'm developing **ICA LA Scoring** website for scoring the lab by LA and let students check the lab score by themselves.
 
-- 🧑‍🎓 I’m currently studying in **3rd Year at Faculty of ICT, Mahidol University**
+- 🧑‍🎓 I’m currently studying in **4th Year at Faculty of ICT, Mahidol University**
 
 - 🌱 I’m currently learning **Quality Assurance Testing** and **AI Agents workflow detection**
 
